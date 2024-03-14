@@ -1,6 +1,6 @@
-{"buttons":{
+{"buttons":[
     {
-        "name": "dasads",
+        "name": "",
         "name_de": "Lese Über Metu Deutsch",
         "name_en": "Read About Metu Deutsch",
         "id": "faq",
@@ -11,7 +11,7 @@
         "calendar": ""
     },
     {
-        "name": "dads",
+        "name": "",
         "name_de": "Folgen Unsere Instagram Seite",
         "name_en": "Follow Our Instagram Page",
         "id": "instagram",
@@ -20,7 +20,7 @@
         "status": "active"
     },
     {
-        "name": "dasads",
+        "name": "",
         "name_de": "MD-Hauptbahnof (Hauptgruppe)  <p>(Kontaktieren uns zu beitreten)</p>",
         "name_en": "MD-Hauptbahnof (Main Group) <p>(Contact us to join)</p>",
         "id": "whatsapp",
@@ -31,7 +31,7 @@
         "addfunc": "console.log('Hello')"
     },
     {
-        "name": "dasds",
+        "name": "",
         "name_de": "Anderer WP Gruppe",
         "name_en": "Other WP Group",
         "id": "other-whatsapp",
@@ -40,7 +40,7 @@
         "status": "active"
     },
     {
-        "name": "asdads",
+        "name": "",
         "name_de": "Unsere Discord Server",
         "name_en": "Our Discord Server",
         "id": "discord",
@@ -49,4 +49,4 @@
         "status": "active",
         "style": "width:32px"
     }
-}}
+]}
