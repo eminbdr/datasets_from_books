@@ -4,6 +4,7 @@
       "name_en": "Read About Metu Deutsch",
       "id": "faq",
       "value": "/faq",
+        "routerLink": "/faq",
       "ico_url": "../assets/Deutsch2.png",
       "style": "background-color: #f5f5f5; color: black;",
       "status": "active",
